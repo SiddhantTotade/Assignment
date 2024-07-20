@@ -1,4 +1,4 @@
-string = "Amolya Sharma"
+string = "Chinmay Kulkarni"
 res = {}
 lowerCase = string.lower()
 
